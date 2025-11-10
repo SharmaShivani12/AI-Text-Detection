@@ -8,6 +8,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     env:
       KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
