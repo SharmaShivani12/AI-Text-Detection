@@ -1,6 +1,6 @@
 🧠 Mercor AI Text Detection — DeBERTa & RoBERTa Ensemble
 
-🏆 Top 100 Globally — Mercor AI Text Detection Challenge
+🏆 Top 149 Globally — Mercor AI Text Detection Challenge
 
 📘 Overview
 
