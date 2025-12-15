@@ -39,7 +39,7 @@ jobs:
         run: |
           mkdir -p kaggle_notebooks
           rm -f kaggle_notebooks/*.ipynb
-          kaggle kernels pull shivanisharma1297/mercor-ai-text-detection-myensemble -p ./kaggle_notebooks
+          kaggle kernels pull shivanisharma1297/ai-text-detection-myensemble -p ./kaggle_notebooks
 
       - name: Commit and push to GitHub
         run: |
